@@ -2,7 +2,7 @@
 # <p align="center"> CISSA committee role descriptions <br/>
 </p>
 
-## <p align="center"> Executive Committee </p>
+## Executive Committee
 
 
 ### President & Vice President
@@ -120,7 +120,7 @@ The events officer’s main responsibility lies in planning and ensuring the smo
 - Works well under pressure
 
 
-## <p align="center"> General Committee </p>
+## General Committee
 ### Publicity Officer
 
 The publicity officer is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
