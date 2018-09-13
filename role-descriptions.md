@@ -2,10 +2,10 @@
 # <p align="center"> CISSA committee role descriptions <br/>
 </p>
 
-# <p align="center"> Executive Committee </p>
+## <p align="center"> Executive Committee </p>
 
 
-## President & Vice President
+### President & Vice President
 
 The Vice President shares these responsibilities, but often is more of a supportive role to the President. They must have a good grasp on all aspects of CISSA, and be willing and able to step up when things get busy!
 
@@ -36,7 +36,7 @@ As both President and Vice President, you are responsible for ensuring committee
 - Happy to prioritise CISSA!
 
 
-## Secretary
+### Secretary
 
 The secretary is one of the most integral roles in CISSA. They make sure that CISSA is running smoothly on a day to day basis. Not only that, they help shape CISSA’s vision, along with the other executives. 
 
@@ -55,7 +55,7 @@ The secretary is one of the most integral roles in CISSA. They make sure that CI
 - Has an eye for detail
 
 
-## Treasurer
+### Treasurer
 
 The Treasurer is CISSA’s banker. They ensure CISSA achieves its aims by allocating money responsibly. The Treasurer plans out the coming year, budgeting events and making sure we do the most with what we have! 
 
@@ -78,7 +78,7 @@ They also have a key role on the executive committee, helping guide CISSA along 
 - Has a high level appreciation for how the club money should be spent
 
 
-## Education Officer
+### Education Officer
 
 The events officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university i.e.  you get to create initiatives that help students learn outside of their regular subjects!
 
@@ -102,7 +102,7 @@ The events officer is on the executive committee, and hence also helps to shape 
 - Ambitious
 
 
-## Events Officer
+### Events Officer
 
 The events officer’s main responsibility lies in planning and ensuring the smooth running of events. It is their job, together with the subcommittee they lead, to ensure that logistics are accounted for and to handle any mishaps that may occur at the event.
 
@@ -120,8 +120,8 @@ The events officer’s main responsibility lies in planning and ensuring the smo
 - Works well under pressure
 
 
-# <p align="center"> General Committee </p>
-## Publicity Officer
+## <p align="center"> General Committee </p>
+### Publicity Officer
 
 The publicity officer is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
 
@@ -143,7 +143,7 @@ The publicity officer is in charge of maintaining CISSA’s online presence and 
 - Likes social media
 
 
-## Industry Liaison
+### Industry Liaison
 
 The industry liaison is the bridge between the student world and the industry world. They are often the point of contact for our numerous sponsors. They should have a good knowledge of CISSA as a whole, and be really proactive in promoting our club to industry.
 
@@ -162,7 +162,7 @@ The industry liaison is the bridge between the student world and the industry wo
 - Entrepreneurial
 
 
-## IT Officer
+### IT Officer
 
 The IT Officer manages the development subcommittee. They ensure that all the moving technical parts of CISSA are running smoothly, from our websites to our bots. 
 
@@ -185,7 +185,7 @@ The IT Officer should have good technical skills, but more importantly should be
 - Willing to learn new technical skills!
 
 
-## First Year Officer
+### First Year Officer
 
 The First Year Officer is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Officer is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first year first semester students too :)
 
@@ -202,7 +202,7 @@ The First Year Officer is in charge of ensuring we have a strong connection with
 - Sociable
 
 
-## Diversity Officer
+### Diversity Officer
 
 The Diversity Officer is in charge of promoting diversity within the CISSA community! This means running diversity focused events/initiatives and may involve working with industry. From huge Women in Tech expos, to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
 
