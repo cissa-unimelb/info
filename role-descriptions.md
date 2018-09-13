@@ -1,6 +1,5 @@
 
-# <p align="center"> CISSA committee role descriptions <br/>
-</p>
+# CISSA Committee Role Descriptions (2018)
 
 ## Executive Committee
 
