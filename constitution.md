@@ -14,7 +14,7 @@ September 2018<br>
 
 2016/09/05 - Introduction of UX Officer individual position for general committee members. Introduction of sub-committee roles which may be appointed by executives and general committee members as needed and deemed suitable. Sub-committee members do not have to be voted in at general meetings and do not have voting rights. Introduction of compulsory constitution amendment from UMSU, clause 24, Grievance procedure.
 
-2018/11/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
+2018/09/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
 
 ## 1 Name and Standard Regulations
 
