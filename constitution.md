@@ -3,7 +3,7 @@
 <p align="center"><br>
 Current contact details:<br>
 executives@cissa.org.au<br><br>
-September 2016<br>
+September 2018<br>
 </p>
 
 2012/09/14 - First version
@@ -13,6 +13,8 @@ September 2016<br>
 2014/09/09 - (Re)introduction of junior individual positions for general committee members, Procedures for enforcing Affirmative Action in a by-election.
 
 2016/09/05 - Introduction of UX Officer individual position for general committee members. Introduction of sub-committee roles which may be appointed by executives and general committee members as needed and deemed suitable. Sub-committee members do not have to be voted in at general meetings and do not have voting rights. Introduction of compulsory constitution amendment from UMSU, clause 24, Grievance procedure.
+
+2018/09/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
 
 ## 1 Name and Standard Regulations
 
@@ -55,63 +57,47 @@ Membership shall be open to all students of the University of Melbourne; Associa
 ## 4 Members
 
 ### 4.1
-A person shall be considered a member having: Completed a membership form as prepared by the committee.
+Membership to our club shall be free. A person shall be considered a member having: completed a membership form as prepared by the committee.
 
 ## 5 Committee
 
 ### 5.1
 The committee shall have the following members elected at the AGM:
 
-1. Elected executive members consisting of:
+1. Elected executive members, who shall be University of Melbourne students, consisting of:
 
-   1. the President, who shall be a University of Melbourne student in their second or later year and should have past committee experience;
+	1. the President, who shall be in their second or later year and should have past committee experience;
 
-   2. the Vice-President, who shall be a University of Melbourne student in their second or later year;
+	2. the Vice-President, who shall be in their second or later year and should have past committee experience;
 
-   3. the Secretary, who shall be a University of Melbourne student in their second or later year;
+	3. the Secretary, who shall be in their second or later year;
 
-   4. the Treasurer, who shall be a University of Melbourne student in their second or later year;
+	4. the Treasurer, who shall be in their second or later year;
 
-   5. the Education Officer, who shall be a University of Melbourne student in their second or later year.
+	5. the Education Officer, who shall be in their second or later year;
 
-   6. the Women’s Officer, who shall be a University of Melbourne student, and must be a woman.
+	6. the Events Officer, who shall be in their second or later year.
 
-2. Five General members, who shall be University of Melbourne students
+2. General committee members, who shall be University of Melbourne students, consisting of:
 
-3. The Immediate Past President, who shall have no voting rights unless also elected to committee.
+	1. the Publicity Officer;
+
+	2. the Industry Liaison;
+
+	3. the IT Officer;
+
+	4. the First Year Officer, who shall be a Bachelor of Science student in their first year;
+
+	5. the Diversity Officer, who must be a woman or identify as non-binary.
 
 ### 5.2
 Affirmative Action shall be applied for women at 25 percent, rounded up, of the elected committee.
 
 ### 5.3
-At the first committee meeting, the Chair, acting as the Returning Officer, will call for nominations from General Committee members and the Immediate Past President for the following portfolios:
-
-1. Industry Liaison
-
-2. Events Officer
-
-3. Publicity Officer
-
-4. IT Officer
-
-5. UX Officer
-
-If the Returning Officer receives no nominations for a position, the Returning Officer will declare the position to be vacant.
-
-The Returning Officer will conduct a ballot under the conditions set out in Section 14.4.1 if more than one eligible committee member nominates.
-
-Committee members may not hold more than one portfolio listed in Section 5.3.
-
-The portfolios listed in Section 5.3 do not come with any additional voting rights.
+Sub-committee members may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Sub-committee members do not have voting rights in the committee.
 
 ### 5.4
-Sub-committees may be appointed by Executives and General Committee members as needed and deemed suitable; however sub-committee members do not have voting rights in the committee.
-
-### 5.5
-While all sub-committee roles are appointed by the Executive and General Committee member’s discretion, members interested in these roles can: i) Apply for a sub-committee role by emailing the Executive and/or General Committee during one of the recruitment drives normally at the beginning of each semester ii) Email any of the Executives and/or General Committee Members at any time directly expressing their interest.
-
-### 5.6
-All sub-committee officers must agree to be bound by their duties to CISSA and participate in the organisation and execution of all CISSA-run events and initiatives including but not limited to marketing campaigns, setting up of events, speaking at events, etc., unless a reasonable notice is provided in advance.
+All committee members must agree to be bound by their duties to CISSA and participate in the organisation and execution of all CISSA-run events and initiatives including but not limited to marketing campaigns, setting up of events, speaking at events, etc., unless a reasonable notice is provided in advance.
 
 ## 6 Committee Powers
 
@@ -137,6 +123,9 @@ The committee is at all times bound by the decisions of a club general meeting.
 ### 7.2
 Any committee decision may be overturned by a club general meeting.
 
+### 7.3
+Only those who have been members for more than 5 days may vote at a club general meeting.
+
 ## 8 Annual General Meetings
 
 ### 8.1
@@ -160,10 +149,19 @@ At this meeting:
 ## 9 Committee Handover
 
 ### 9.1
-The outgoing committee must make itself available to guide the incoming committee in club organisation and running events until the end of the semester in which the AGM occurs. This includes, but is not limited to, taking charge of events, at the request and authorisation of the incoming committee.
+The outgoing committee must make itself available to guide the incoming committee in club organisation and running events until the end of the semester in which the AGM occurs. This includes, but is not limited to, taking charge of events and mentoring successors in their new duties.
 
 ### 9.2
-There must be an official knowledge handover between the outgoing and incoming committee to ensure that information and contacts are preserved.
+There must be an official knowledge handover between the outgoing and incoming committee to ensure that information and contacts are preserved. This includes, but is not limited to:
+
+1. Transferring ownership of any team software integral to the running of the club;
+
+
+2. Conducting formal introductions to current industry contacts;
+
+
+3. Providing updated documentation to assist throughout the handover period and beyond.
+
 
 ## 10 General Meetings
 
@@ -208,26 +206,27 @@ Constitutional changes require a simple majority of members voting at a Special 
 ### 14.4
 The Committee shall be elected by the following procedure:
 
-1. Each single-member position shall be elected by optional instant-runoff voting; and
+
+1. Each Executive and General Committee position shall be elected by optional instant-runoff voting.
 
 
-2. Multi-member positions shall be elected by optional preferential proportional representation. Multi-member ballots shall be conducted following the conclusion of all Single-member ballots.
+2. Following the conclusion of the Executives ballots, the Returning Officer shall check to see if the Affirmative Action target prescribed in Section 5.2 has been met. 
 
+	If the target has not been met, the Returning Officer will continue to conduct the General Committee ballots, noting the order of potential election of candidates, as well as the vote counts, for each position. If the target has still not been met, all General Committee ballots should use the following procedure:
+    
+	1. Using the vote counts, the Returning Officer shall check to see which ballots had a woman candidate who wasn’t elected.
 
-3. Following the conclusion of the single-member ballots, the Returning Officer shall check to see if the Affirmative Action target prescribed in Section 5.2 has been met.
+	2. For the ballot with the woman that was closest to being elected, this woman shall instead be elected.
 
-	If the target has not been met, the Returning Officer will continue to conduct the multi-member ballots, noting the order of election of candidates. Women candidates in a multi-member ballot will then be elected before other candidates, in the original order of election.
+	3. In the case of two female candidates from separate positions trying, the order that their position appears in Section 5.1.1 of the Constitution shall be taken into account, with the candidate whose position appears higher in that order being chosen.
 
-	If the target has still not been met, the Returning Officer will then declare vacant the number of positions remaining to meet the target.
+	4. This procedure should continue until the Affirmative Action target has been met.
+    
+    If the target has still not been met, the Returning Officer will then declare vacant the number of General Committee positions not held by women required to meet the target in the reverse order of their appearance in Section 5.1.1 of the Constitution.
 
+3. In a by-election called outside of an Annual General Meeting the Returning Officer is directed to check whether the composition of the committee including vacancies meets the Affirmative Action target prescribed in Section 5.2. Vacant positions don’t count towards the Affirmative Action target.
 
-4. In a by-election called outside of an Annual General Meeting, the Returning Officer is directed to check whether the composition of the committee excluding vacancies meets the Affirmative Action target prescribed in Section 5.2 before the commencement of the elections. If the Affirmative Action target is met excluding vacancies then no further action is required. If it has not been met excluding vacancies then the Returning Officer is directed to reserve vacancies for women to meet the Affirmative Action target.
-
-	If the number of vacancies is less than the number of positions required to meet the Affirmative Action target, the Returning Officer will reserve all the vacant positions to be filled by women. If the number of vacancies is equal to or greater than the number of positions required to meet the Affirmative Action target, the Returning Officer will conduct the election of positions in the order that they appear in Section 5.1.1 of the Constitution. 
-
-	Between electing positions, should a point be reached where the number of vacancies left equals the number of women required to meet Affirmative Action, the remaining positions should be filled by women. 
-
-	The positions can then be opened to male committee members should no women nominate for the positions, with the existing committee member immediately vacating his/her position upon winning the election.
+	If the Affirmative Action target has not been met, after concluding Executive Committee ballots, the Returning Officer should conduct elections for all unfilled positions with ballots using the procedure outlined in Section 14.4.2.
 
 ## 15 Absentee Committee Members
 
