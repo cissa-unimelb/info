@@ -45,7 +45,7 @@ As per section 5.1.1(i) of the CISSA constitution.
 **6.3.2 Election of the Vice-President**
 
 As per section 5.1.1(ii) of the CISSA constitution.
-“the Vice-President, who shall be a University of Melbourne student in their second or later year”
+“the Vice-President, who shall be a University of Melbourne student in their second or later year and should have past committee experience”
 
 **6.3.3 Election of the Secretary**
 
