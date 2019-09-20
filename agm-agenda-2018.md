@@ -40,7 +40,7 @@ Each election will be preceded by 1 minute speeches for contesting student. If t
 **6.2.1 Election of the President.**
 
 As per section 5.1.1(i) of the CISSA constitution. 
-“the President, who shall be a University of Melbourne student win their second or later year and should have past committee experience”
+“the President, who shall be a University of Melbourne student in their second or later year and should have past committee experience”
 
 **6.2.2 Election of the Vice-President.**
 
