@@ -8,7 +8,7 @@
 
 The Vice President shares these responsibilities, but often is more of a supportive role to the President. They must have a good grasp on all aspects of CISSA, and be willing and able to step up when things get busy!
 
-As both President and Vice President, you are responsible for ensuring committee feels empowered to achieve what they want to in their roles. Both of these roles should encourage proactivity, lead by example, and inspire the committee by highlighting the amazing things that the committee has achieved throughout the year!
+As both President and Vice President, you are responsible for ensuring the committee feels empowered to achieve what they want to in their roles. Both of these roles encourages proactivity, leading by example, and inspiring the committee by highlighting the amazing things they achieve throughout the year!
 
 **Key Responsibilities**
 
@@ -29,7 +29,7 @@ As both President and Vice President, you are responsible for ensuring committee
 - Creative
 - Flexible
 - Ambitious
-- Good problem solving skills
+- Good problem-solving skills
 - A good leader, or is willing to become one!
 - Works well under pressure
 - Happy to prioritise CISSA!
@@ -74,23 +74,23 @@ They also have a key role on the executive committee, helping guide CISSA along 
 - Good at working with spreadsheets
 - Has an eye for detail
 - Happy to chase people up for receipts
-- Has a high level appreciation for how the club money should be spent
+- Has a high-level appreciation for how the club money should be spent
 
 
 ### Education Officer
 
-The events officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university i.e.  you get to create initiatives that help students learn outside of their regular subjects!
+The events officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university, creating initiatives that help students learn outside of their regular subjects!
 
 **Key Responsibilities**
 
 - Running initiatives such as:
   - Technical interview workshops/meet-ups
   - Intro to coding workshops - for students that are interested in coding but aren’t able to make the full commitment of a class like COMP10001
-  - Web/app development workshops - this is something that isn’t taught much in class
+  - Web/App development workshops - this is something that isn’t taught much in class
 - Manage the education subcommittee, which has flexible roles, but could be composed of:
   - UX Lead
   - Technical Interview Lead
-  - Web/app Development Lead
+  - Web/App Development Lead
 
 **Attributes of this role could be:**
 
@@ -103,7 +103,7 @@ The events officer is on the executive committee, and hence also helps to shape 
 
 ### Events Officer
 
-The events officer’s main responsibility lies in planning and ensuring the smooth running of events. It is their job, together with the subcommittee they lead, to ensure that logistics are accounted for and to handle any mishaps that may occur at the event.
+The events officer’s main responsibility lies in planning events and ensuring they run smoothly on the day. It is their job, together with the subcommittee they lead, to ensure that logistics are accounted for, assist attendees and handle any mishaps that may occur at the event.
 
 **Key Responsibilities**
 
@@ -144,7 +144,7 @@ The publicity officer is in charge of maintaining CISSA’s online presence and 
 
 ### Industry Liaison
 
-The industry liaison is the bridge between the student world and the industry world. They are often the point of contact for our numerous sponsors. They should have a good knowledge of CISSA as a whole, and be really proactive in promoting our club to industry.
+The industry liaison is the bridge between the student world and the industry world. They are often the point of contact for our numerous sponsors. They should have a good knowledge of CISSA as a whole and be proactive in promoting our club to industry.
 
 **Key Responsibilities**
 
@@ -163,18 +163,16 @@ The industry liaison is the bridge between the student world and the industry wo
 
 ### IT Officer
 
-The IT Officer manages the development subcommittee. They ensure that all the moving technical parts of CISSA are running smoothly, from our websites to our bots. 
-
-The IT Officer should have good technical skills, but more importantly should be driven and willing to learn! 
+The IT Officer manages the development subcommittee. They ensure that all the moving technical parts of CISSA are running smoothly, from our websites to our bots. They should have good technical skills, but more importantly, should be driven and willing to learn! 
 
 **Key Responsibilities**
 
 - Continuously improve CISSA’s technical backend, including things like Slack bots.
 - Manage the development subcommittee
   - The development subcommittee is usually composed of ~3 developers
-  - Subcommittee members are primarily tasked with the actual development of our websites / bots
+  - Subcommittee members are primarily tasked with the actual development of our websites/bots
 - Ensure that the CISSA, Catalyst, Codebrew, and any other websites are up to date.
-- Think of new an innovative ways to improve CISSA’s workflow
+- Think of new and innovative ways to improve CISSA’s workflow
 
 **Attributes of this role could be:**
 
@@ -186,11 +184,11 @@ The IT Officer should have good technical skills, but more importantly should be
 
 ### First Year Officer
 
-The First Year Officer is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Officer is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first year first semester students too :)
+The First Year Officer is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Officer is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first-year, first-semester students too :)
 
 **Key Responsibilities**
 
-- Manages team of ~2 first year subcommittee members
+- Manages a team of ~2 first year subcommittee members
 - Liaises with student reps in first year computing subjects
 - Leads initiatives such as the Mentorship program and First Year Social events
 
@@ -203,15 +201,15 @@ The First Year Officer is in charge of ensuring we have a strong connection with
 
 ### Diversity Officer
 
-The Diversity Officer is in charge of promoting diversity within the CISSA community! This means running diversity focused events/initiatives and may involve working with industry. From huge Women in Tech expos, to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
+The Diversity Officer is in charge of promoting diversity within the CISSA community! This means running diversity-focused events/initiatives and may involve working with industry. From huge Women in Tech expos to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
 
 **Key Responsibilities**
 
 - Promote diversity in the CISSA community
-- Organise diversity related events/initiatives
+- Organise diversity-related events/initiatives
 - Typical events include:
-  - DiversiTEA - our weekly gathering over coffee/tea at House of Cards. As diversity officer you’re in charge of leading this event and ensuring it has a focus on diversity and has an open welcoming atmosphere!
-  - Panel / speaker events such as the Women in Tech expo!
+  - DiversiTEA - our weekly gathering over coffee/tea at House of Cards. As diversity officer, you’re in charge of leading this event and ensuring it has a focus on diversity and has an open welcoming atmosphere!
+  - Panel/speaker events such as the Women in Tech expo!
 
 **Attributes of this role could be:**
 
