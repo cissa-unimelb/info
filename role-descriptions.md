@@ -79,7 +79,7 @@ They also have a key role on the executive committee, helping guide CISSA along 
 
 ### Education Officer
 
-The events officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university, creating initiatives that help students learn outside of their regular subjects!
+The education officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university, creating initiatives that help students learn outside of their regular subjects!
 
 **Key Responsibilities**
 
