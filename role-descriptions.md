@@ -10,6 +10,8 @@ The Vice President shares these responsibilities, but often is more of a support
 
 As both President and Vice President, you are responsible for ensuring the committee feels empowered to achieve what they want to in their roles. Both of these roles encourage proactivity, leading by example, and inspiring the committee by highlighting the amazing things they achieve throughout the year!
 
+You must have been part of CISSA's committee or one of its sub-committees in the past to run for these roles.
+
 **Key Responsibilities**
 
 - Managing the committee as a whole, as well as individual teams
@@ -201,7 +203,9 @@ The First Year Officer is in charge of ensuring we have a strong connection with
 
 ### Diversity Officer
 
-The Diversity Officer is in charge of promoting diversity within the CISSA community! This means running diversity-focused events/initiatives and may involve working with industry. From huge Women in Tech expos to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
+The Diversity Officer is in charge of promoting diversity within the CISSA community. As per CISSA's constitution, the Diversity Officer must be a woman or identify as non-binary.
+
+This position involves running diversity-focused events and initiatives, possibly involving working with industry. From huge Women in Tech expos to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
 
 **Key Responsibilities**
 
