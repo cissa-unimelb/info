@@ -10,7 +10,7 @@ The Vice President shares these responsibilities, but often is more of a support
 
 As both President and Vice President, you are responsible for ensuring the committee feels empowered to achieve what they want to in their roles. Both of these roles encourage proactivity, leading by example, and inspiring the committee by highlighting the amazing things they achieve throughout the year!
 
-You must have been part of CISSA's committee or one of its sub-committees in the past to run for these roles.
+You should have been part of CISSA's committee or one of its sub-committees in the past to run for these roles.
 
 **Key Responsibilities**
 
