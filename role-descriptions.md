@@ -7,7 +7,7 @@
 ### President & Vice President
 As President or Vice President, you are responsible for leading the club and ensuring each member of the committee feels empowered to achieve what they want to in their roles. 
 
-Both of these roles encourage proactivity and leading by example. They should also inspire the committee by highlighting the amazing things they achieve throughout the year!
+Both of these roles encourage proactivity and leading by example. They should also inspire the committee by highlighting the amazing things they achieve throughout the year.
 
 The Vice President shares these responsibilities with the President, but they often play a supporting role. They must have a good grasp on all aspects of CISSA, and be willing and able to step up when things get busy!
 
