@@ -48,6 +48,7 @@ The secretary is one of the most integral roles in CISSA. They make sure that CI
 - Organising room bookings
 - Responding to messages to our Facebook page
 - Ensuring that all aspects of CISSA are running smoothly, such as making sure all tasks are delegated properly
+- Ensure smooth running of the recruitment process for team officer roles.
 
 **Attributes of this role could be:**
 
@@ -223,3 +224,20 @@ This position involves running diversity-focused events and initiatives, possibl
 - Empathetic
 - Mature
 
+### Hackathon Officer
+
+The Hackathon Director is responsible for all things hackathon related. They focus on ideating and organising hackathon events throughout the year.
+
+**Key Responsibilities**
+- Organising the venue (online/in-person) and platform (devpost)
+- Ideation of Hackathon themes
+- Event Logistics (Merchandise, Carepacks, Sponsorship)
+- Working with Publicity to market the event
+- Managing Hackathons team
+
+**Attributes of this role could be:**
+
+- Passionate about hackathons
+- Good at team management and task delegation
+- Creative
+- Works well under pressure
