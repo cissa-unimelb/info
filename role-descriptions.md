@@ -241,3 +241,21 @@ The Hackathon Director is responsible for all things hackathon related. They foc
 - Good at team management and task delegation
 - Creative
 - Works well under pressure
+
+
+### Products Officer
+The Product Director is in charge of CISSA’s Product Community and general presence in the ever-growing design and product space at UniMelb. This includes areas such as UI, UX, Product Management, Product Engineering, Product Design, Human-Computer Interaction, and so on. They should plan and run events for the Product Community, as well as create other product-related initiatives.
+
+**Key Responsibilities**
+- Coordinate Product Community activities such as workshops, industry and social events.
+- Manage the CISSA Product Community Facebook page and Discord channel.
+- Create product-related content for CISSA’s community for our various social media accounts, blog and newsletter.
+- Organise new initiatives for the CISSA Product Community.
+- Create a greater connection within CISSA to students in product-related degrees.
+
+**Attributes of this role could be:**
+
+- Deeply interested in product-related areas.
+- Creative and passionate.
+- Innovative, with plans and ideas for new events and initiatives.
+- Organised.
