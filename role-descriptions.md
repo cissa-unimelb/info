@@ -48,7 +48,8 @@ The secretary is one of the most integral roles in CISSA. They make sure that CI
 - Organising room bookings
 - Responding to messages to our Facebook page
 - Ensuring that all aspects of CISSA are running smoothly, such as making sure all tasks are delegated properly
-- Ensure smooth running of the recruitment process for team officer roles.
+- Ensure smooth running of the recruitment process for team officer roles
+- Oversee the welcome and onboarding process for new team officers 
 
 **Attributes of this role could be:**
 
