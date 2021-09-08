@@ -82,9 +82,9 @@ They also have a key role on the executive committee, helping guide CISSA along 
 - Has a high-level appreciation for how the club money should be spent
 
 
-### Education Officer
+### Education Director
 
-The education officer is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the education officer works to create initiatives and events to extend upon the skills students learn at university, creating initiatives that help students learn outside of their regular subjects!
+The Education Director is on the executive committee, and hence also helps to shape CISSA’s vision. Aside from typical executive duties, the Education Director works to create initiatives and events to extend upon the skills students learn at university, creating initiatives that help students learn outside of their regular subjects!
 
 **Key Responsibilities**
 
@@ -106,9 +106,9 @@ The education officer is on the executive committee, and hence also helps to sha
 - Ambitious
 
 
-### Events Officer
+### Events Director
 
-The events officer’s main responsibility lies in planning events and ensuring they run smoothly on the day. It is their job, together with the subcommittee they lead, to ensure that logistics are accounted for, assist attendees and handle any mishaps that may occur at the event.
+The Events Director’s main responsibility lies in planning events and ensuring they run smoothly on the day. It is their job, together with the subcommittee they lead, to ensure that logistics are accounted for, assist attendees and handle any mishaps that may occur at the event.
 
 **Key Responsibilities**
 
@@ -125,9 +125,9 @@ The events officer’s main responsibility lies in planning events and ensuring 
 
 
 ## General Committee
-### Publicity Officer
+### Publicity Director
 
-The publicity officer is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
+The Publicity Director is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
 
 **Key Responsibilities**
 
@@ -149,7 +149,7 @@ The publicity officer is in charge of maintaining CISSA’s online presence and 
 
 ### Industry Liaison
 
-The industry liaison is the bridge between the student world and the industry world. They are often the point of contact for our numerous sponsors. They should have a good knowledge of CISSA as a whole and be proactive in promoting our club to industry.
+The Industry Liaison is the bridge between the student world and the industry world. They are often the point of contact for our numerous sponsors. They should have a good knowledge of CISSA as a whole and be proactive in promoting our club to industry.
 
 **Key Responsibilities**
 
@@ -166,9 +166,9 @@ The industry liaison is the bridge between the student world and the industry wo
 - Entrepreneurial
 
 
-### IT Officer
+### IT Director
 
-The IT Officer manages the development subcommittee. They ensure that all the moving technical parts of CISSA are running smoothly, from our websites to our bots. They should have good technical skills, but more importantly, should be driven and willing to learn! 
+The IT Director manages the development subcommittee. They ensure that all the moving technical parts of CISSA are running smoothly, from our websites to our bots. They should have good technical skills, but more importantly, should be driven and willing to learn! 
 
 **Key Responsibilities**
 
@@ -187,9 +187,9 @@ The IT Officer manages the development subcommittee. They ensure that all the mo
 - Willing to learn new technical skills!
 
 
-### First Year Officer
+### First Year Director
 
-The First Year Officer is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Officer is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first-year, first-semester students too :)
+The First Year Director is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Director is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first-year, first-semester students too :)
 
 **Key Responsibilities**
 
@@ -204,9 +204,9 @@ The First Year Officer is in charge of ensuring we have a strong connection with
 - Sociable
 
 
-### Diversity Officer
+### Diversity Director
 
-The Diversity Officer is in charge of promoting diversity within the CISSA community. As per CISSA's constitution, the Diversity Officer must be a woman or identify as non-binary.
+The Diversity Director is in charge of promoting diversity within the CISSA community. As per CISSA's constitution, the Diversity Director must be a woman or identify as non-binary.
 
 This position involves running diversity-focused events and initiatives, possibly involving working with industry. From huge Women in Tech expos to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
 
@@ -215,7 +215,7 @@ This position involves running diversity-focused events and initiatives, possibl
 - Promote diversity in the CISSA community
 - Organise diversity-related events/initiatives
 - Typical events include:
-  - DiversiTEA - our weekly gathering over coffee/tea at House of Cards. As diversity officer, you’re in charge of leading this event and ensuring it has a focus on diversity and has an open welcoming atmosphere!
+  - DiversiTEA - our weekly gathering over coffee/tea at House of Cards. As Diversity Director, you’re in charge of leading this event and ensuring it has a focus on diversity and has an open welcoming atmosphere!
   - Panel/speaker events such as the Women in Tech expo!
 
 **Attributes of this role could be:**
@@ -225,7 +225,7 @@ This position involves running diversity-focused events and initiatives, possibl
 - Empathetic
 - Mature
 
-### Hackathon Officer
+### Hackathon Director
 
 The Hackathon Director is responsible for all things hackathon related. They focus on ideating and organising hackathon events throughout the year.
 
@@ -244,7 +244,7 @@ The Hackathon Director is responsible for all things hackathon related. They foc
 - Works well under pressure
 
 
-### Products Officer
+### Product Director
 The Product Director is in charge of CISSA’s Product Community and general presence in the ever-growing design and product space at UniMelb. This includes areas such as UI, UX, Product Management, Product Engineering, Product Design, Human-Computer Interaction, and so on. They should plan and run events for the Product Community, as well as create other product-related initiatives.
 
 **Key Responsibilities**
