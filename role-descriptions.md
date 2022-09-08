@@ -11,7 +11,7 @@ Both of these roles encourage proactivity and leading by example. They should al
 
 The Vice President shares these responsibilities with the President, but they often play a supporting role. They must have a good grasp on all aspects of CISSA, and be willing and able to step up when things get busy!
 
-You must have been part of CISSA's committee or one of its sub-committees in the past to run for either of these roles.
+You must have been part of CISSA's committee or one of its officer teams (sub-committees) in the past to run for either of these roles.
 
 **Key Responsibilities**
 
@@ -187,22 +187,24 @@ The IT Director manages the development subcommittee. They ensure that all the m
 - Willing to learn new technical skills!
 
 
-### First Year Director
+### Student Experience Director
 
-The First Year Director is in charge of ensuring we have a strong connection with first year computing students. Starting out at uni in an unfamiliar degree can be tough! The First Year Director is a current first year student (as of the AGM) who’s keen to run events that help make our future first year students’ lives better! Note that this may mean they’ll be in their second year in Semester 1 2019 - that is perfectly fine! You’ll be responsible for a subcommittee of first-year, first-semester students too :)
+The Student Experience Director is in charge of ensuring we have a strong connection with the entire student community that we represent. Starting out at uni in an unfamiliar degree can be tough! The Student Experience Director is someone who’s keen to run events that help make our members' lives better! You'll work with your officers to engage the community, engage with subjects, gather feedback, and create initiatives that improve the student experience.
 
 **Key Responsibilities**
 
-- Manages a team of ~2 first year subcommittee members
-- Liaises with student reps in first year computing subjects
+- Manages a team of ~2 first year and postgrad officers
+- Liaises with student reps in first year computing subjects and postgrad computing subjects
 - Leads initiatives such as the Mentorship program and First Year Social events
+- Engaging with first years and postgrads to hold events that are inclusive of them.
 
 **Attributes of this role could be:**
 
 - Knows the struggles of first year well
+- Knows the struggles of the broader student community
 - Keen to give back and make others’ lives easier
 - Sociable
-
+- Creative
 
 ### Diversity Director
 
