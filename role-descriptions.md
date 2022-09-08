@@ -171,12 +171,13 @@ The IT Director manages the development subcommittee. They ensure that all the m
 
 **Key Responsibilities**
 
-- Continuously improve CISSA’s technical backend, including things like Slack bots.
-- Manage the development subcommittee
-  - The development subcommittee is usually composed of ~3 developers
-  - Subcommittee members are primarily tasked with the actual development of our websites/bots
+- Continuously improve CISSA’s technical backend, including things like Slack bots
+- Oversee CISSA's internal tooling, including platforms such as Slack, Google Workspace, Trello, and so on
+- Manage the IT team
+  - The IT team is usually composed of ~3 developers, titled IT Officers
+  - Subcommittee members are primarily tasked with the actual development of our websites/bots/automations
 - Ensure that the CISSA, Catalyst, Codebrew, and any other websites are up to date.
-- Think of new and innovative ways to improve CISSA’s workflow
+- Think of new and innovative ways to improve CISSA’s workflow and automate tasks
 
 **Attributes of this role could be:**
 
