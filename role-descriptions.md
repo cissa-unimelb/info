@@ -194,10 +194,11 @@ The Student Experience Director is in charge of ensuring we have a strong connec
 **Key Responsibilities**
 
 - Manages a team of ~2 first year and postgrad officers
-- Liaises with student reps in first year computing subjects and postgrad computing subjects
+- Liaises with student reps in first year computing subjects and postgrad computing subjects, along with international student groups
 - Leads initiatives such as the Mentorship program and First Year Social events
-- Engaging with first years and postgrads to hold events that are inclusive of them
-- Crafting guides for first years in both undergraduate and postgraduate programs
+- Engaging with first years in undergrad, first years in postgrad, and international students, to hold events that are inclusive of them
+- Publishing guides for new students
+- Ideating and running events involving wellbeing
 
 **Attributes of this role could be:**
 
