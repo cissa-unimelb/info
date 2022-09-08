@@ -48,8 +48,7 @@ The secretary is one of the most integral roles in CISSA. They make sure that CI
 - Organising room bookings
 - Responding to messages to our Facebook page
 - Ensuring that all aspects of CISSA are running smoothly, such as making sure all tasks are delegated properly
-- Ensure smooth running of the recruitment process for team officer roles
-- Oversee the welcome and onboarding process for new team officers 
+- Help ensure smooth running of the recruitment process for team officer roles conducted by the P&C Director
 
 **Attributes of this role could be:**
 
@@ -232,6 +231,7 @@ This position involves running diversity-focused events and initiatives, possibl
 The Hackathon Director is responsible for all things hackathon related. They focus on ideating and organising hackathon events throughout the year.
 
 **Key Responsibilities**
+
 - Organising the venue (online/in-person) and platform (devpost)
 - Ideation of Hackathon themes
 - Event Logistics (Merchandise, Carepacks, Sponsorship)
@@ -247,9 +247,11 @@ The Hackathon Director is responsible for all things hackathon related. They foc
 
 
 ### Product Director
+
 The Product Director is in charge of CISSA’s Product Community and general presence in the ever-growing design and product space at UniMelb. This includes areas such as UI, UX, Product Management, Product Engineering, Product Design, Human-Computer Interaction, and so on. They should plan and run events for the Product Community, as well as create other product-related initiatives.
 
 **Key Responsibilities**
+
 - Coordinate Product Community activities such as workshops, industry and social events.
 - Manage the CISSA Product Community Facebook page and Discord channel.
 - Create product-related content for CISSA’s community for our various social media accounts, blog and newsletter.
@@ -262,3 +264,24 @@ The Product Director is in charge of CISSA’s Product Community and general pre
 - Creative and passionate.
 - Innovative, with plans and ideas for new events and initiatives.
 - Organised.
+
+
+### People & Culture Director
+
+The People & Culture (P&C) Director is in charge of CISSA’s internal community and HR. They will assist in orchestrating a consistent and professional hiring process for officers. Their responsibilities also include addressing internal complaints/grievances, organising internal events, facilitating team bonding, and so on.
+
+**Key Responsibilities**
+
+- Organising a consistent & professional hiring process for team officers
+- Oversee the welcome and onboarding process for new team officers
+- Organise internal events for team bonding including informal meals, social activities, and the annual CISSA retreat
+- Help with exercising the diversity quota for officer teams, and resolving associated conflicts/challenges
+- Handle complaints of bullying, sexual harassment, and etc
+- Help balance the workload of committee members
+
+**Attributes of this role could be:**
+
+- Empathatic
+- Passionate about wellbeing, relationships, and the advocacy of underrespresented groups
+- Creative and proactive with improving internal culture and team bonding
+- Good at organising fun activities for the CISSA team
