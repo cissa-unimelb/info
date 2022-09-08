@@ -24,6 +24,7 @@ You must have been part of CISSA's committee or one of its officer teams (sub-co
 - Advocate for all of CISSA’s members, and CIS students
 - Liaising with industry/sponsors
 - Speaking at events and ensuring they run smoothly
+- Upholding the principles of service to our members, selfless volunteering, and promoting democracy 
 
 **Attributes of this role could be:**
 
