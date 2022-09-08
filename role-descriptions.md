@@ -195,7 +195,8 @@ The Student Experience Director is in charge of ensuring we have a strong connec
 - Manages a team of ~2 first year and postgrad officers
 - Liaises with student reps in first year computing subjects and postgrad computing subjects
 - Leads initiatives such as the Mentorship program and First Year Social events
-- Engaging with first years and postgrads to hold events that are inclusive of them.
+- Engaging with first years and postgrads to hold events that are inclusive of them
+- Crafting guides for first years in both undergraduate and postgraduate programs
 
 **Attributes of this role could be:**
 
@@ -207,7 +208,7 @@ The Student Experience Director is in charge of ensuring we have a strong connec
 
 ### Diversity Director
 
-The Diversity Director is in charge of promoting diversity within the CISSA community. As per CISSA's constitution, the Diversity Director must be a woman or identify as non-binary.
+The Diversity Director is in charge of promoting diversity within the CISSA community. As per CISSA's constitution, the Diversity Director must be a woman, have a minority gender identity, or be from an Indigenous background.
 
 This position involves running diversity-focused events and initiatives, possibly involving working with industry. From huge Women in Tech expos to intimate DiversiTEA gatherings, you get to continuously promote diversity throughout the year!
 
@@ -218,10 +219,14 @@ This position involves running diversity-focused events and initiatives, possibl
 - Typical events include:
   - DiversiTEA - our weekly gathering over coffee/tea at House of Cards. As Diversity Director, you’re in charge of leading this event and ensuring it has a focus on diversity and has an open welcoming atmosphere!
   - Panel/speaker events such as the Women in Tech expo!
+  - ComputeFest - a full-day event to empower & engage the next generation of tech talent from high schools!
+- Advocate for underrepresented groups in the hiring process for officers
+- Assist executives and P&C Director to exercise the diversity quota for officer teams and address + resolve challenges
+- Seek & execute strategies to get more diverse applicants for internal hiring, and more diverse attendees at our events
 
 **Attributes of this role could be:**
 
-- Passionate about diversity
+- Passionate about diversity in forms
 - Proactive
 - Empathetic
 - Mature
@@ -273,10 +278,11 @@ The People & Culture (P&C) Director is in charge of CISSA’s internal community
 
 **Key Responsibilities**
 
-- Organising a consistent & professional hiring process for team officers
+- Organising a consistent, professional, and unbiased hiring process for team officers
 - Oversee the welcome and onboarding process for new team officers
 - Organise internal events for team bonding including informal meals, social activities, and the annual CISSA retreat
 - Help with exercising the diversity quota for officer teams, and resolving associated conflicts/challenges
+  - Collaborating with executives and Diversity Director to do so
 - Handle complaints of bullying, sexual harassment, and etc
 - Help balance the workload of committee members
 
