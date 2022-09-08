@@ -226,9 +226,9 @@ This position involves running diversity-focused events and initiatives, possibl
 - Empathetic
 - Mature
 
-### Hackathon Director
+### Competitions Director
 
-The Hackathon Director is responsible for all things hackathon related. They focus on ideating and organising hackathon events throughout the year.
+The Competitions Director is responsible for all things competition related. They focus on ideating and organising hackathons and other competitive events throughout the year, including CISSA's annual Codebrew competition in Semester 1.
 
 **Key Responsibilities**
 
@@ -236,7 +236,7 @@ The Hackathon Director is responsible for all things hackathon related. They foc
 - Ideation of Hackathon themes
 - Event Logistics (Merchandise, Carepacks, Sponsorship)
 - Working with Publicity to market the event
-- Managing Hackathons team
+- Managing the competitions team of ~2 officers
 
 **Attributes of this role could be:**
 
@@ -244,6 +244,7 @@ The Hackathon Director is responsible for all things hackathon related. They foc
 - Good at team management and task delegation
 - Creative
 - Works well under pressure
+- High attention to detail
 
 
 ### Product Director
