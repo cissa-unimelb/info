@@ -125,7 +125,10 @@ The Events Director’s main responsibility lies in planning events and ensuring
 
 
 ## General Committee
-### Publicity Director
+
+> There is a proposed constitutional ammendment that if passed, will see the replacement of this role with the Design Director and Marketing Director.
+
+### Publicity Director*
 
 The Publicity Director is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
 
@@ -146,6 +149,54 @@ The Publicity Director is in charge of maintaining CISSA’s online presence and
 - Passionate about CISSA and creating a fantastic face to the club!
 - Likes social media
 
+> This role is subject to the passing of a constitutional ammendment.
+
+### Design Director*
+
+The Design Director is responsible for the visual elements of CISSA’s branding and communications. This includes designing for merchandise, events, social media, and any other visual needs. The Design Director works closely with the Marketing Director and other directors to ensure that all designs are both creative and aligned with CISSA’s goals.
+
+**Key Responsibilities:**
+
+- Create designs for merchandise, comics, events, social media banners, and any other visual needs.
+- Maintain and develop CISSA’s visual identity, ensuring consistency across all design outputs.
+- Collaborate with the Marketing Director to align design work with marketing strategies and timelines.
+- Manage the design process from concept to completion, ensuring high-quality and timely delivery.
+- Stay updated on design trends and tools, particularly in Figma and Adobe Suite, to ensure the use of best practices.
+- Work closely with other directors to understand their design needs for respective events and provide creative solutions.
+- Manage all creation of designs relating to the club mascot, Click
+
+**Attributes of this role could be:**
+- Strong understanding of branding
+- Proficient in Figma and Adobe Suite, with a strong portfolio demonstrating design skills.
+- Creative and innovative
+- Proactive and organised
+- Strong time management skills
+- Good at coordinating teams/projects
+- Passionate about CISSA and creating a fantastic face to the club!
+
+> This role is subject to the passing of a constitutional ammendment.
+
+### Marketing Director*
+
+The Marketing Director is responsible for overseeing CISSA’s online presence and developing comprehensive marketing strategies to engage and grow the community. This role involves both strategic planning and hands-on execution, ensuring that all content is timely, relevant, and aligned with CISSA’s goals. The Marketing Director works closely with the Design Director to ensure engaging marketing.
+
+**Key Responsibilities:**
+- Develop and execute marketing strategies across all social media platforms, including Facebook, Instagram, LinkedIn, and others as needed.
+- Plan and manage the content calendar, ensuring a consistent flow of engaging posts, stories, and reels.
+- Collaborate with the Design Director to ensure all visual content aligns with marketing objectives.
+- Analyse and report on the effectiveness of marketing campaigns, using metrics like engagement, reach, and conversions to refine strategies.
+- Coordinate with other directors to promote events, initiatives, and announcements.
+- Ensure the newsletter is sent out on time on a weekly basis
+- Planning out marketing strategies employing the CISSA Mascot
+
+**Attributes of this role could be:**
+- Strong understanding of social media platforms and trends
+- Strategic thinker
+- Excellent communication skills
+- Proactive and organised
+- Strong time management skills
+- Good at coordinating teams/projects
+- Passionate about CISSA and creating a fantastic face to the club!
 
 ### Industry Liaison
 
