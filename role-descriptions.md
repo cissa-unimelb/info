@@ -245,7 +245,7 @@ The IT Director manages the development subcommittee. They ensure that all the m
 
 > This role is subject to the passing of a constitutional ammendment.
 
-### Projects Director
+### Projects Director*
 
 The Projects Director is responsible for leading CISSA’s projects team. The projects team will focus on developing software solutions for the benefit of wider university community, with aim to facilitate student connection and improve on university life. This role involves strong team management skills; a deep understanding of software development tools and pipelines; the ability to mentor new developers and a passion for building and maintaining software. The Projects Director should also have a keen vision for projects which will benefit the wider student body. 
 
