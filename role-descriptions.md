@@ -125,7 +125,11 @@ The Events Director’s main responsibility lies in planning events and ensuring
 
 
 ## General Committee
-### Publicity Director
+
+
+> There is a proposed constitutional ammendment that if passed, will see the replacement of this role with the Design Director and Marketing Director.
+
+### Publicity Director*
 
 The Publicity Director is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
 
@@ -145,6 +149,57 @@ The Publicity Director is in charge of maintaining CISSA’s online presence and
 - Good at coordinating teams/projects
 - Passionate about CISSA and creating a fantastic face to the club!
 - Likes social media
+
+
+> This role is subject to the passing of a constitutional ammendment.
+
+### Design Director*
+
+The Design Director is responsible for the visual elements of CISSA’s branding and communications. This includes designing for merchandise, events, social media, and any other visual needs. The Design Director works closely with the Marketing Director and other directors to ensure that all designs are both creative and aligned with CISSA’s goals.
+
+**Key Responsibilities:**
+
+- Create designs for merchandise, comics, events, social media banners, and any other visual needs.
+- Maintain and develop CISSA’s visual identity, ensuring consistency across all design outputs.
+- Collaborate with the Marketing Director to align design work with marketing strategies and timelines.
+- Manage the design process from concept to completion, ensuring high-quality and timely delivery.
+- Stay updated on design trends and tools, particularly in Figma and Adobe Suite, to ensure the use of best practices.
+- Work closely with other directors to understand their design needs for respective events and provide creative solutions.
+- Manage all creation of designs relating to the club mascot, Click
+
+**Attributes of this role could be:**
+- Strong understanding of branding
+- Proficient in Figma and Adobe Suite, with a strong portfolio demonstrating design skills.
+- Creative and innovative
+- Proactive and organised
+- Strong time management skills
+- Good at coordinating teams/projects
+- Passionate about CISSA and creating a fantastic face to the club!
+
+
+> This role is subject to the passing of a constitutional ammendment.
+
+### Marketing Director*
+
+The Marketing Director is responsible for overseeing CISSA’s online presence and developing comprehensive marketing strategies to engage and grow the community. This role involves both strategic planning and hands-on execution, ensuring that all content is timely, relevant, and aligned with CISSA’s goals. The Marketing Director works closely with the Design Director to ensure engaging marketing.
+
+**Key Responsibilities:**
+- Develop and execute marketing strategies across all social media platforms, including Facebook, Instagram, LinkedIn, and others as needed.
+- Plan and manage the content calendar, ensuring a consistent flow of engaging posts, stories, and reels.
+- Collaborate with the Design Director to ensure all visual content aligns with marketing objectives.
+- Analyse and report on the effectiveness of marketing campaigns, using metrics like engagement, reach, and conversions to refine strategies.
+- Coordinate with other directors to promote events, initiatives, and announcements.
+- Ensure the newsletter is sent out on time on a weekly basis
+- Planning out marketing strategies employing the CISSA Mascot
+
+**Attributes of this role could be:**
+- Strong understanding of social media platforms and trends
+- Strategic thinker
+- Excellent communication skills
+- Proactive and organised
+- Strong time management skills
+- Good at coordinating teams/projects
+- Passionate about CISSA and creating a fantastic face to the club!
 
 
 ### Industry Liaison
@@ -188,26 +243,33 @@ The IT Director manages the development subcommittee. They ensure that all the m
 - Willing to learn new technical skills!
 
 
-### Student Experience Director
+> This role is subject to the passing of a constitutional ammendment.
 
-The Student Experience Director is in charge of ensuring we have a strong connection with the entire student community that we represent. Starting out at uni in an unfamiliar degree can be tough! The Student Experience Director is someone who’s keen to run events that help make our members' lives better! You'll work with your officers to engage the community, engage with subjects, gather feedback, and create initiatives that improve the student experience.
+### Projects Director*
 
-**Key Responsibilities**
+The Projects Director is responsible for leading CISSA’s projects team. The projects team will focus on developing software solutions for the benefit of wider university community, with aim to facilitate student connection and improve on university life. This role involves strong team management skills; a deep understanding of software development tools and pipelines; the ability to mentor new developers and a passion for building and maintaining software. The Projects Director should also have a keen vision for projects which will benefit the wider student body. 
 
-- Manages a team of ~2 first year and postgrad officers
-- Liaises with student reps in first year computing subjects and postgrad computing subjects, along with international student groups
-- Leads initiatives such as the Mentorship program and First Year Social events
-- Engaging with first years in undergrad, first years in postgrad, and international students, to hold events that are inclusive of them
-- Publishing guides for new students
-- Ideating and running events involving wellbeing
+**Key Responsibilities:**
+
+- Source new projects and create ideas that CISSA can create to benefit the wider university student body.
+- Oversee the CISSA projects team and ensure projects are created to be useful to all university students and easily maintainable for the future.
+- Manage the Projects team:
+  - The Projects team is usually composed of 2 projects each with up to 5 developers, called Projects Officers.
+  - Subcommittee members are primarily tasked with the actual development of the given project which could include websites/apps/bots.
+  - Projects director is responsible for helping developers improve on their technical skills and learn about common software development practices used in industry.
+- Seek new project ideas for future development from various avenues such as the CISSA Projects team, CISSA committee, hackathon winners or other university students.
+- Think of ways to continue to maintain existing projects so future students can use them.
 
 **Attributes of this role could be:**
 
-- Knows the struggles of first year well
-- Knows the struggles of the broader student community
-- Keen to give back and make others’ lives easier
-- Sociable
-- Creative
+- Strong technical skills
+- Innovative and interested in new project ideas
+- Willing to learn new technical skills and familiar with current technical tools!
+- Excellent communication skills
+- Proactive and organised
+- Strong time management skills
+- Good at coordinating teams/projects
+- Interested in mentoring newer developers
 
 ### Diversity Director
 
