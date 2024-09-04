@@ -319,7 +319,7 @@ The Competitions Director is responsible for all things competition related. The
 
 ### Product Director
 
-The Product Director is in charge of CISSA’s Product Community and general presence in the ever-growing design and product space at UniMelb. This includes areas such as UI, UX, Product Management, Product Design, Human-Computer Interaction, and so on. They should plan and run events for the Product Community, as well as create other product-related initiatives.
+The Product Director is in charge of CISSA’s UI/UX Community and general presence in the ever-growing design and product space at UniMelb. This includes areas such as UI, UX, Product Management, Product Engineering, Product Design, Human-Computer Interaction, and so on. They should plan and run events for the UI/UX & HCI Community, as well as create other product-related initiatives.
 
 **Key Responsibilities**
 
@@ -331,10 +331,11 @@ The Product Director is in charge of CISSA’s Product Community and general pre
 
 **Attributes of this role could be:**
 
-- Deeply interested in product-related areas.
+- Deeply interested in UI/UX and Product Management related areas.
 - Creative and passionate.
 - Innovative, with plans and ideas for new events and initiatives.
-- Organised.
+- Have strong knowledge of design thinking and principles
+- Proficient in Figma and Adobe Suite, with a strong portfolio demonstrating design skills.
 
 
 ### People & Culture Director
