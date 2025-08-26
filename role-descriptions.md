@@ -129,18 +129,15 @@ The Events Director’s main responsibility lies in planning events and ensuring
 
 > There is a proposed constitutional ammendment that if passed, will see the replacement of this role with the Design Director and Marketing Director.
 
-### Publicity Director*
+### Marketing and Design Directors*
 
-The Publicity Director is in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
+The Marketing and Design Directors are in charge of maintaining CISSA’s online presence and ensuring that the club is consistently engaging with the wider community. They should work to ensure that what CISSA puts out online is relevant, interesting, and sets a good example for all students in tech.
 
 **Key Responsibilities**
 
 - Coordinate the Publicity Schedule (a schedule of when to post events, re-share events, post job opportunities etc. on the Facebook page)
 - Ensure the newsletter is sent out on time on a weekly basis
 - Manage the social media accounts, including Facebook, Twitter and Instagram
-- Oversee the publicity subcommittee, which is composed of:
-  - Design subcommittee members, who work to produce event posters etc.
-  - Content subcommittee members, who work to produce blog posts, event descriptions etc.
 
 **Attributes of this role could be:**
 
@@ -151,7 +148,7 @@ The Publicity Director is in charge of maintaining CISSA’s online presence and
 - Likes social media
 
 
-> This role is subject to the passing of a constitutional ammendment.
+> This role is subject to the passing of a constitutional amendment.
 
 ### Design Director*
 
